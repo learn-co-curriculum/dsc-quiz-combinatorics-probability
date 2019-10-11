@@ -53,7 +53,7 @@ You have surveyed 100 individuals and asked them which type of food they enjoy b
 The following two-way table displays data for the sample of individuals who responded to your survey. 
 
 |food type|children|adults|total|
-|--|--|--|--|
+|---|---|---|---|
 |sweet|26|24|50|
 |savory|18|32|50|
 |total|44|56|100|
