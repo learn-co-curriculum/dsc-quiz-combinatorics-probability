@@ -4,18 +4,23 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ???
 
-# Quiz - Combinatorics and Probability
+# Combinatorics, Sets, Probability
 
-?: You want to determine all possible batting orders for seven players on a 12 person team. Does your computation involve
+?: Question 1
+
+
+You want to determine all possible batting orders for seven players on a 12 person team. Does your computation involve
 using permutations or combinations?
+
 
 ( ) Combinations
 
 (X) Permutations
 
-?: How would you compute the union of sets `a = {2, 4, 6}` and `b = {1, 3, 5}` using Python? 
+?: Question 2
 
-Select all correct answers.
+
+How would you compute the union of sets `a = {2, 4, 6}` and `b = {1, 3, 5}` using Python? Select all correct answers.
 
 [X] `a|b`
 
@@ -25,11 +30,12 @@ Select all correct answers.
 
 [X] `a.union(b)`
 
-?: What is the green shaded region in the Venn diagram image below equal to? 
+?: Question 3 
 
-<p align="center">
-<img src="images/venn_diagram.png" width="500">
-</p>
+
+What is the green shaded region in the Venn diagram image below equal to? 
+
+![Venn diagram](https://raw.githubusercontent.com/learn-co-curriculum/dsc-quiz-combinatorics-probability/master/images/venn_diagram.png)
 
 (X) The intersection of A and B
 
@@ -39,7 +45,10 @@ Select all correct answers.
 
 ( ) B
 
-?: You have surveyed 100 individuals and asked them which type of food they enjoy best.
+?: Question 4
+
+
+You have surveyed 100 individuals and asked them which type of food they enjoy best.
 
 The following two-way table displays data for the sample of individuals who responded to your survey. 
 
@@ -59,7 +68,10 @@ What is the probability of liking sweet food given the respondent was an adult, 
 
 ( ) 16/25
 
-?: Imagine you have two bags: one has 7 red balls and 3 green ones, the other has 4 red balls and 6 green ones.
+?: Question 5
+
+
+Imagine you have two bags: one has 7 red balls and 3 green ones, the other has 4 red balls and 6 green ones.
 You toss a fair coin. If the coin lands heads, you pick a random ball from the first bag. If it lands tails, you
 pick a random ball from the second bag. 
 
