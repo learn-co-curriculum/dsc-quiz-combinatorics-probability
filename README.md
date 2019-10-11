@@ -58,7 +58,7 @@ The following two-way table displays data for the sample of individuals who resp
 |savory|18|32|50|
 |total|44|56|100|
 
-What is the probability of liking sweet food given the respondent was an adult, P(sweet|adult)? 
+What is the probability of liking sweet food given the respondent was an adult, **P(sweet|adult)**? 
 
 (X) 3/7
 
